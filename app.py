@@ -619,10 +619,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("""
-<p style='text-align:center;font-size:22px;'>
-With Love,<br>
-Snoova, Bittu, Tanu ❤️
-</p>
+<h2 style='text-align:center;color:#FFD700; font-size:25px;'>
+🌹 Made With Love By Tanay ❤️
+</h2>
 """, unsafe_allow_html=True)
 
 
